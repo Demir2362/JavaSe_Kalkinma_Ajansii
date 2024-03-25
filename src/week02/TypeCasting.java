@@ -14,9 +14,9 @@ public class TypeCasting{
  float floatDollar = 13.5f;
 
  int intDollar = (int) floatDollar;
- System.out.println("floatDollar  : + floatDollar+ \nintDollar") + intDollar;
+ System.out.println("floatDollar  : + floatDollar+ \nintDollar" + intDollar);
 
- long longdollar = 2;
+ long longDollar = 2;
  int  intdollar2 = (int)  longDollar;
 
  long longvalue = 12345678101112L;
