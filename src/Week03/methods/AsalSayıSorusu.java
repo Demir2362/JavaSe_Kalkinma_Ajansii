@@ -42,40 +42,7 @@ public class AsalSayıSorusu {
     * 5- her metotda oldugu gibi constructor metodunda gövddesi{} bulunmak zorunda.
     * 6- constructor metodu sınıfın yapıcı metotudur sınıfın bir nesnesini yaratmak için kullanılır.
     *
-     //...
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     //...*/
 
     }
 
